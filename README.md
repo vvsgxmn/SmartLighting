@@ -1,0 +1,67 @@
+# 基于Spring Boot+Vue3的智慧路灯管理系统
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue3](https://img.shields.io/badge/-Vue3-grey?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![智慧路灯](https://img.shields.io/badge/-智慧路灯-grey?style=flat-square) 
+
+## 项目介绍
+
+## 项目介绍
+
+智慧路灯管理系统是一套基于物联网技术的智慧城市照明管理平台，通过实时监控路灯设备的运行状态，实现对城市照明设施的智能化管理与运维。系统支持设备状态监测、异常告警、数据统计分析、区域设施分布管理等功能，为城市照明管理提供全方位的数据支撑。
+
+## 功能模块
+
+- **首页概览**：展示设施总数、正常运行数、异常设施数、待处理异常数等核心指标，以及区域设施状态分布图和异常类型统计图
+- **数据大屏**：可视化监控大屏，实时展示设施状态、区域分布、运行趋势、最近异常记录等信息
+- **设施管理**：包括设施类型管理和设施信息管理，支持路灯、景观灯、庭院灯等多种类型设施的增删改查
+- **区域管理**：支持多级区域的树形结构管理，区域与设施关联
+- **状态监控**：运行状态实时监控（电压、电流、功率、温度、亮度）和状态上报功能
+- **异常管理**：异常规则配置（阈值设定）和异常记录管理（自动检测与人工处理）
+- **统计分析**：多维度数据统计，包括区域分布、异常趋势、设施类型占比等
+- **系统管理**：用户管理和角色管理，支持管理员和运维人员两种角色
+
+## 技术架构
+
+- **后端**：Spring Boot 2.6.13 + MyBatis 2.2.2 + Lombok
+- **前端**：Vue 3.5 + Element Plus 2.9 + Vite 7 + ECharts 5.6 + Pinia 2.3
+- **数据库**：MySQL 8.0
+
+<!-- screenshots-start -->
+## 系统截图
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/796f5b9fe30e4a2dacea8ac427956f82.png" alt="系统截图1" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/9055b3abcde544b6b2854c08ebc61f88.png" alt="系统截图2" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/3a4660d6ca784a76b74bdf87affc284d.png" alt="系统截图3" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/7aa783a179124e75a09a30f03ccff91b.png" alt="系统截图4" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/57d6fb0b1fd34e438e71fdfa286b674c.png" alt="系统截图5" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/64bd25e2c28e499fb9f5e424204da01a.png" alt="系统截图6" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/79174c7cf5394b20a339b183808c7836.png" alt="系统截图7" width="600" />
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/b08891e5af0542cd86c258f2b659f6f1.png" alt="系统截图8" width="600" />
+
+<!-- screenshots-end -->
+
+---
+
+**软件版本：** JDK 8.0 | MySQL 8 | Vue 3 | Node 20.19.0 | Navicat 16
+
+**需要软件和PPT + 微信：vvsgxmn**
+
+二维码：
+<div align="left">
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/753b7d4a2ede90f531338ee5549c2695.jpg" alt="二维码" width="300" />
+</div>
+
+
+1. 免费赠送以上所有软件都有，包括IDEA、WebStorm的压缩包和破解文件
+2. 帮忙好评或者star截图发我，免费赠送PPT+答辩问答20题！！！谢谢谢谢老板！！！
+
+⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
+
+承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
+
